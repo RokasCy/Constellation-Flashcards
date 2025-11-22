@@ -6,6 +6,7 @@ from PIL import Image, ImageTk
 
 number_of_constellations = 64
 available_num = [x+1 for x in range(number_of_constellations)]
+available_num = [12]
 const_num = 0
 const_name = ""
 
