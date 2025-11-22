@@ -1,0 +1,595 @@
+1-CYGNUS-
+english:cygnus
+greek:κύκνος
+
+*messier: m29, m39
+*stars: deneb, albireo
+extra:it features a prominent asterism known as the Northern Cross. Deneb holds one corner of the Summer triangle.
+
+
+2-HERCULES-
+english:hercules
+greek:ηρακλής
+
+*messier: m13:Great Hercules Cluster, m92
+*stars:
+
+extra:Has no bright stars but contains 2 of the biggest globular clusters in northern hemisphere.
+
+3-LYRA-
+english:lyra
+greek:λύρα
+
+*messier: m56: globular cluster, m57:ring nebula
+*stars:vega
+
+extra: Vega holds one of the corners of the Summer triangle.Beta Lyrae is the prototype of a class of binary stars known as Beta Lyrae variables.
+
+
+4-PEGASUS-
+english:pegasus
+greek:πήγασος
+
+*messier: m15: Great Pegasus Globular Cluster
+*stars: Enif, Alpheratz: binary star
+
+extra: Pegasus shares Alpheratz with Andromeda
+
+5-ANDROMEDA-
+english:andromeda
+greek:ανδρομέδα
+
+*messier: m31: Andromeda, m32, m110
+*stars: Alpheratz: binary star
+
+extra:m32 and m110 are sattelite galaxies of Andromeda. The constellation shares Alpheratz with Pegasus
+
+6-DRACO-
+english:draco
+greek:δράκων
+
+*messier:
+*stars: 
+
+extra:Draco is circumpolar from northern latitudes, meaning that it never sets and can be seen at any time of year.
+
+7-URSA MINOR-
+english:ursa minor
+greek:μικρά αρκτος
+
+*messier:
+*stars: polaris, kochab
+
+extra:Polaris is a yellow-white supergiant and the brightest Cepheid variable star in the night sky.
+
+8-BOOTES-
+english:boötes
+greek:Βοώτης
+
+*messier:
+*stars: Arcturus, Izar
+
+extra:Northern constellation. Arcturus: 4th brightest star in the sky
+
+9-AQUILA-
+english:aquila
+greek:Αετός
+
+*messier:
+*stars: Altair
+
+extra: Holds one of the corners of the Summer triangle. Located along the Milky Way
+
+10-CASSIOPEIA-
+english:cassiopeia
+greek:κασσιόπη
+
+*messier:m52:scorpion cluster, m103:open cluster
+*stars: Schedar
+
+extra: Northern constellation. Hosts some of the most luminous stars known.
+
+
+11-CEPHEUS-
+english:cepheus
+greek:κηφεύς
+
+*messier:
+*stars: Alderamin, δ Cephei
+
+extra: δ Cephei is the prototype of Cepheid variable stars.
+
+12-URSA MAJOR-
+english:ursa major
+greek:μεγάλη αρκτος
+
+*messier: m101:pinwheel, m81, m82, m97
+*stars:Dubhe, Merak
+
+extra:Contains Big Dipper. Cigar galaxy is the prototype of starburst galaxies.        m81:bode's, m82:cigar m97:owl nebula
+
+13-PERSEUS-
+english:perseus
+greek:περσεύς
+
+*messier: m34:spiral cluster
+*stars:algol, mirfak
+
+extra:Algol is notable due to being a eclipsing binary 
+
+14-TAURUS-
+english:taurus
+greek:ταύρος
+
+*messier: m45:pleiades, m1:crab nebula
+*stars:aldebaran, elnath, alcyone
+
+extra: Contains Hyades: open cluster. Elnath connects Taurus with Auriga. Alcyone is the brightest star of pleiades
+
+15-PISCES-
+english:pisces
+greek:ιχθύες
+
+*messier: m74: phantom galaxy
+*stars:
+
+extra:The right ascension/declination 00 is located within Pisces.
+
+16-AURIGA-
+english:auriga
+greek:ηνίοχος
+
+*messier: m37, m36, m38
+*stars:capella, menkalinan
+
+extra:Has 3 open clusters, m37 being the brightest.
+
+17-ORION-
+english:orion
+greek: ωρίων
+
+*messier: m42:orion nebula, m43, m78
+*stars: rigel, betelgeuse, belatrix, mintaka
+
+extra:north winter sky, m78 reflection nebula
+
+18-GEMINI-
+english:gemini
+greek:δίδυμοι
+
+*messier: m35: open cluster
+*stars: pollux, castor, alhena
+
+extra:Prominent in north winter skies
+
+19-LYNX-
+english:lynx
+greek:λυγξ
+
+*messier:
+*stars:
+
+extra: The border between ursa major and gemini
+
+20-CANCER-
+english:cancer
+greek:καρκίνος 
+
+*messier: m44:beehive cluster, m67
+*stars:
+
+extra:The dimmest constellation. m67 one of the oldest open clusters.
+
+21-LEO-
+english:leo
+greek:λέων
+
+*messier: m65, m66, ngc3628 | m95, m96, m105
+*stars:regulus, denebola, algieba
+
+extra: Forms "the sickle" asterism, (m65, m66, ngc3628): The Leo triplet
+
+22-LEO MINOR-
+english:leo minor
+greek:λέων μικρός
+
+*messier: 
+*stars:
+
+extra: Dim constellation right above Leo
+
+23-MONOCEROS-
+english:monoceros
+greek:μονόκερως 
+
+*messier: m50: heart-shaped open cluster
+*stars:
+
+extra: Near Orion
+
+24-CORONA BOREALIS-
+english:corona borealis
+greek:στέφανος βόρειος
+
+*messier:
+*stars:Alphecca
+
+extra: Alphecca is an Algol-type eclipsing binary
+
+25-CORONA AUSTRALIS-
+english: corono australis
+greek:στέφανος νότιος
+
+*messier:
+*stars:
+
+extra: Contains one of the closest star-forming regions to the Solar System — known as the Corona Australis Molecular Cloud
+
+26-HYDRA-
+english:hydra
+greek:υδρα
+
+*messier:m83 south pinwheel,m68: glob,m48:open
+*stars: alphard
+
+extra: largest constellation 
+
+27-SEXTANTS-
+english: sextants 
+greek:εξας
+
+*messier:
+*stars:
+
+extra: dim constellation along hydra
+
+28-CRATER-
+english:crater
+greek:κρατηρ
+
+*messier:
+*stars:
+
+extra: dim constellation connected to hydra. Symbolises a cup
+
+29-CORVUS-
+english:corvus
+greek:κοραξ
+
+*messier: 
+*stars:
+
+extra: dim constellation, a crow perched on hydra
+
+30-VIRGO-
+english:virgo
+greek:παρθένος 
+
+*messier:m84,m86,m87|m60,m49,m104:sombrero
+*stars: spica
+
+extra: Contains virgo cluser. m87 is the galaxy that contains m87* - the first pic of supermassive blackhole ever taken
+
+31-LIBRA-
+english:libra
+greek:ζυγος 
+
+*messier:
+*stars:zubene(genubi, schamali) [α, β librae]
+
+extra: at the end of hydra, at the beggining of scorpius
+
+32-CANIS MINOR-
+english:canis minor
+greek:μικρός κυων 
+
+*messier:
+*stars:procryon, gomeisa
+
+extra: Procryon means "preceding the dog" in greek. Gomeisa is much more luminous but farther away.
+
+33-CANIS MAJOR-
+english:canis major
+greek:μέγας κυων
+
+*messier: m41: open cluster 
+*stars:sirius, adhara, mirzam
+ 
+extra: sirius - the brightest and one of the closest to us. Adhara and mirzam used to outshine it
+
+34-LEPUS-
+english:lepus
+greek:λαγωος
+
+*messier: m79:globular
+*stars: arneb [α leporis]
+ 
+extra: Represents a hair chased by orion.
+
+35-AQUARIUS-
+english:aquarius
+greek:υδροχόος 
+
+*messier: m2, m72
+*stars:
+ 
+extra: In the sky ocean
+
+36-PISCIS AUSTRINUS-
+english:piscis austrinus
+greek:νότιος ιχθύς
+
+*messier:
+*stars: fomalhaut
+
+extra: The southern pisces. Fomalhaut emits excess infrared radiation, indicating a circumstellar disk around it.
+
+37-GRUS-
+english:grus
+greek:γερανός 
+
+*messier:
+*stars: alnair, tiaki
+
+extra: It means crane: a type of bird.
+
+38-CAPRICORNUS-
+english:capricornus
+greek:αιγόκερως
+
+*messier: m30:globular
+*stars: deneb algedi, algiedi[δ, α Capricorni]
+
+extra: It means horned goat
+
+39-EQUULEUS-
+english:equuleus
+greek:ιππάριον
+
+*messier:
+*stars:
+
+extra: It means little horse
+
+40-DELPHINUS-
+english:delphinus
+greek:δελφίν 
+
+*messier:
+*stars:
+
+extra: Dolphin.
+
+41-CETUS-
+english:cetus
+greek:κήτος  
+
+*messier:m77:squid galaxy
+*stars: menkar,deneb kaitos[α, β Ceti], mira
+
+extra: mira is a prototype of mira variables. 
+
+42-SAGITTA-
+english:sagitta
+greek:βέλος   
+
+*messier:m71:globular
+*stars:
+
+extra: an arrow.
+
+43-VULPECULA-
+english:vulpecula
+greek:αλώπηξ 
+
+*messier:m27
+*stars:
+
+extra: A little fox. m27 is the first planetary nebula ever discovered.
+
+44-LACERTA-
+english:lacerta
+greek:σαύρα
+
+*messier:
+*stars:
+
+extra: a lizard or "little cassiopeia"
+
+45-TRIANGULUM-
+english:triangulum
+greek:τριγωνον
+
+*messier: m33:triangulum galaxy
+*stars:
+
+Extra: m33 is a member of the local group
+
+46-ARIES-
+english:aries
+greek:κριός
+
+*messier: 
+*stars: hamal
+
+extra: Represents a ram
+
+47-PHOENIX-
+english:phoenix
+greek:φοίνιξ 
+
+*messier: 
+*stars: ankaa
+
+extra: contains the largest objects (galaxy clusters) in the visible universe: El Gordo, Pheonix Cluster.
+
+48-ERIDANUS-
+english:eridanus
+greek:ηριδανός
+
+*messier: 
+*stars: achernar, cursa:"the footstool"
+
+extra: Represents a river. Achernar means river's end and is spinning extremely rapidly. (it's radius is 50% larger at the equator)
+
+49-FORNAX-
+english:fornax
+greek:κάμινος 
+
+*messier: 
+*stars:
+
+extra: partly incirled by eridanus. It represents a furnace.
+
+50-SERPENS-
+english:serpens
+greek:οφις 
+
+*messier: m5: globular, m16: eagle nebula
+*stars:
+
+extra: seperated into caput (head) and cauda (tail). Pillars of creation are at the center of m16.
+
+51-SCUTUM-
+english:scutum
+greek:ασπίς 
+
+*messier: m11:wild duck cluster, m26
+*stars:
+
+extra: A shield. Contains UY scuti: one of the largest stars. m11 one of the richest open clusters.
+
+52-MICROSCOPIUM-
+english:microscopium
+greek:μικροσκόπιον 
+
+*messier:
+*stars:
+
+extra: A telescope. Near capricorn.
+
+53-OPHIUCHUS-
+english:ophiuchus
+greek:οφιουχος
+
+*messier: m10, m12, m19
+*stars: rasalhague, sabik
+
+extra: Some guy holding serpens. m10 & 12: compact globulars and m19:most oblate globular.
+
+54-SCORPIUS-
+english:scorpius
+greek:σκορπιος
+
+*messier:antares, shaula, sargas
+*stars: m6:butterfly, m7:ptolemy, m4, m80
+
+extra: antares means "rival of mars. Shaula means sting
+
+55-LUPUS-
+english:lupus
+greek:λύκος 
+
+*messier:
+*stars: 
+
+extra: a wolf being killed by centaurus
+
+56-CENTAURUS-
+english:centaurus
+greek:κένταυρος 
+
+*messier: omega centauri, centaurus A
+*stars: alpha cen(rigil kentaurus, toliman, proxima), hadar, menkent
+
+extra: omega: largest/brightest globular clusters, centaurus A:closest radio galaxy
+
+57-NORMA-
+english:norma
+greek:γνώμων  
+
+*messier: 
+*stars: 
+
+extra: carpenters tool
+
+58-CRUX-
+english:crux
+greek:σταυρός του νότου
+
+*messier: jewel box: open cluster
+*stars: acrux, mimosa, gacrux
+
+extra: the smallest constellation. Can be used to find south celestial pole in tandem with alpha and beta centauri
+
+59-TRIANGULUM AUSTRALE-
+english:triangulum australe
+greek:τρίγωνον νότιον
+
+*messier:
+*stars: atria
+
+extra: southern triangulum.
+
+60-SAGITTARIUS-
+english:sagittarius
+greek:τοξότης 
+
+*messier: m24: star cloud, m8:lagoon, m17:omega, m22:globular
+*stars: kaus australis, nunki
+
+extra: Large Sagittarius star cloud is the birghtest visible region of the galaxy (m24 is the small star cloud). Sgr A* is the supermassive black hole of the milky way. m8 and m17 are H II regions.
+
+61-PAVO-
+english:pavo
+greek:ταώς
+
+*messier: ngc6752: bright gobular
+*stars:peacock
+
+extra: part of the 4 southern birds.
+
+62-TUCANA-
+english:tucana
+greek:τουκάνα
+
+*messier: 47 Tucanae, small magellanic cloud
+*stars:
+
+extra: 47 Tucanae is the second brightest globular. Part of the 4 southern birds.
+
+63-HYDRUS-
+english:hydrus
+greek:υδρος
+
+*messier:
+*stars:
+
+extra: "male water snake" as opposed to hydra, which is represents "female water snake"
+
+64-MUSCA-
+english:musca
+greek:μυια
+
+*messier:
+*stars:
+
+extra:a fly on centaurus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
