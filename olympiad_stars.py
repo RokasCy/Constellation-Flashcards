@@ -4,7 +4,11 @@ import random
 
 from PIL import Image, ImageTk
 
-number_of_constellations = 64
+base_path = os.path.dirname(__file__)
+photo_dir = os.path.join(base_path, "photos")
+info_dir = os.path.join(base_path, "info.txt")
+
+number_of_constellations = 71
 available_num = [x+1 for x in range(number_of_constellations)]
 const_num = 0
 const_name = ""
@@ -20,9 +24,9 @@ def constellation_picker():
         available_num = [x+1 for x in range(number_of_constellations)]
 
     selected_path = ""
-    for f in os.listdir("photos\\"):
+    for f in os.listdir(photo_dir):
         if f.startswith(f"{str(const_num)}-"):
-            selected_path = f"photos\\{f}"
+            selected_path = os.path.join(photo_dir, f)
             const_name = f.removeprefix(f"{const_num}-").removesuffix(".png")
     
     #rotate image randomly
@@ -69,7 +73,7 @@ def get_info():
     name = ''
     obj = ''
     extra = ''
-    with open("info.txt", 'r', encoding='utf-8') as f:
+    with open(info_dir, 'r', encoding='utf-8') as f:
         txt = f.readlines()
         start, end = 0, 0
         for index, line in enumerate(txt):
@@ -130,8 +134,11 @@ window.geometry("900x700")
 window.resizable(False, False)
 window.configure(bg=bg_window)
 
-icon = tk.PhotoImage(file="photos\\icon.png")
+icon_path = os.path.join(photo_dir, "icon.png")
+icon = tk.PhotoImage(file=icon_path)
 window.iconphoto(True, icon)
+
+
 
 canvas = tk.Canvas(window, width=600, height=600)
 constellation_picker()

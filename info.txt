@@ -576,11 +576,68 @@ greek:μυια
 
 extra:a fly on centaurus
 
+65-DORADO-
+english:dorado
+greek:δοράς
 
+*messier: Large Mangellanic cloud
+*stars:
 
+extra: where the south ecliptic pole lies. contains most of the LMC.
 
+66-MENSA-
+english:mensa
+greek:τράπεζα 
 
+*messier: Large Mangellanic cloud
+*stars:
 
+extra: 
+
+67-OCTANS-
+english:octans
+greek:οκτάς
+
+*messier:
+*stars: polaris australis
+
+extra: where the southern celestial pole lies
+
+68-CARINA-
+english:carina
+greek:τρόπις 
+
+*messier:carina nebula, southern pleiades, southern beehive
+*stars: canopus, beta, epsilon carinae
+
+extra: carina nebula much larger and brighter than orion nebula but less well known. 
+
+69-COLUMBA-
+english:columba
+greek:περιστερά
+
+*messier:
+*stars: 
+
+extra: columba contains the solar antapex - the solar system is moving away from it.
+
+70-PUPPIS-
+english:puppis
+greek:πρυμνη
+
+*messier: m46, m47
+*stars: naos
+
+extra: part of argo navis
+
+71-VELA-
+english:vela
+greek:ιστία
+
+*messier:
+*stars: γ, δ Velorum
+
+extra: the sails of argo navis.
 
 
 
