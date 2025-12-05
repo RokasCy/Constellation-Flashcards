@@ -49,7 +49,7 @@ english:draco
 greek:δράκων
 
 *messier:
-*stars: 
+*stars: cat's eye nebula
 
 extra:Draco is circumpolar from northern latitudes, meaning that it never sets and can be seen at any time of year.
 
@@ -638,6 +638,81 @@ greek:ιστία
 *stars: γ, δ Velorum
 
 extra: the sails of argo navis.
+
+72-ARA-
+english:ara
+greek:βωμός 
+
+*messier:
+*stars: westerlund 1
+
+extra: westerlund 1 is a super star cluster: they're massive enough that they might evolve into globulars
+
+73-CAMELOPARDALIS
+english:camelopardalis
+greek:καμηλοπαρδαλης
+
+*messier:
+*stars:
+
+Extra: a camel
+
+74-RETICULUM
+english:reticulum
+greek:δίκτυον
+
+*messier:
+*stars:
+
+extra: 
+
+75-VOLANS-
+english:volans
+greek:ιχθύς ιπτάμενος
+
+*messier:
+*stars:
+
+extra: flying fish
+
+76-CHAMAELEON-
+english:chamaeleon
+greek:Χαμαιλέων 
+
+*messier:
+*stars:
+
+extra: chameleon
+
+77-INDUS-
+english:indus
+greek:ινδός 
+
+*messier:
+*stars:
+
+extra: 
+
+78-PICTOR-
+english:pictor
+greek:οκρίβας 
+
+*messier:
+*stars:beta pictoris
+
+extra: a canvus stand: "easel". Beta pictoris surrounded by dust disk
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
