@@ -8,7 +8,7 @@ base_path = os.path.dirname(__file__)
 photo_dir = os.path.join(base_path, "photos")
 info_dir = os.path.join(base_path, "info.txt")
 
-number_of_constellations = 78
+number_of_constellations = 88
 available_num = [x+1 for x in range(number_of_constellations)]
 const_num = 0
 const_name = ""

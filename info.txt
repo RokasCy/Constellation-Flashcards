@@ -4,8 +4,8 @@ greek:κύκνος
 
 *messier: m29, m39
 *stars: deneb, albireo
-extra:it features a prominent asterism known as the Northern Cross. Deneb holds one corner of the Summer triangle.
 
+extra:it features a prominent asterism known as the Northern Cross. Deneb holds one corner of the Summer triangle.
 
 2-HERCULES-
 english:hercules
@@ -24,7 +24,6 @@ greek:λύρα
 *stars:vega
 
 extra: Vega holds one of the corners of the Summer triangle.Beta Lyrae is the prototype of a class of binary stars known as Beta Lyrae variables.
-
 
 4-PEGASUS-
 english:pegasus
@@ -701,6 +700,123 @@ greek:οκρίβας
 *stars:beta pictoris
 
 extra: a canvus stand: "easel". Beta pictoris surrounded by dust disk
+
+79-HOROLOGIUM-
+english:horologium
+greek:ωρολόγιον 
+
+*messier:
+*stars:
+
+extra: a pendulum
+
+80-CAELUM-
+english:caelum
+greek:γλυφείον 
+
+*messier:
+*stars:
+
+extra: a chisel
+
+81-ANTLIA-
+english:antlia
+greek:αντλία 
+
+*messier:
+*stars:
+
+extra: an air pump
+
+82-PYXIS-
+english:pyxis
+greek:πυξίς
+
+*messier:
+*stars:
+
+extra: a mariner's compass
+
+83-APUS-
+english:apus
+greek:πτηνόν 
+
+*messier:
+*stars:
+
+extra: a bird
+
+84-TELESCOPIUM-
+english:telescopium
+greek:τηλεσκόπιον
+
+*messier:
+*stars:
+
+extra: a telescope
+
+85-COMA BERENICES-
+english:coma berenices
+greek:κόμη βερενίκης
+
+*messier:
+*stars:m64, coma star cluster, coma cluster/supercluster
+
+extra: the hair of a queen of egypt. only modern constellation named after a historic figure. contains the north galactic pole.
+
+86-CANES VENATICI-
+english:canes venatici
+greek:κύνες θηρευτικοί
+ 
+*messier: m51: whirlpool, m63: sunflower
+*stars: 
+
+extra: hunting dogs of bootes (a sherpard). Contains a supervoid
+
+87-CIRCINUS-
+english:circinus
+greek:διαβήτης 
+
+*messier: circinus galaxy: closest seyfert galaxy (active AGN)
+*stars:
+
+extra:
+
+88-SCULPTOR-
+english:sculptor
+greek:γλύπτης 
+
+*messier: cartwheel galaxy
+*stars:     
+
+extra: where the south galactic pole lies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
